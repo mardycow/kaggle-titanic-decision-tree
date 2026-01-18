@@ -1,4 +1,4 @@
-# kaggle-titanic-decision-tree-analysis
+# kaggle_titanic_decision_tree
 Прогноз выживания пассажиров Титаника (Kaggle).
 
 ## Описание
